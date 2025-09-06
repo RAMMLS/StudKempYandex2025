@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//Используем метод скользящего окна (sliding window)
+
 int main() {
   int n, k;
   cin >> n >> k;
