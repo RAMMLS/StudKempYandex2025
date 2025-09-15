@@ -115,7 +115,7 @@ yandex_bot = YandexGPTBot()
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Обработчик команды /start"""
     await update.message.reply_text(
-        "ГОЙДААААА"
+        "Это что брух, ты что показал???? ЧИЛ ЧИЛ ЭТО ВИДЕО ВИДЕО ЧИИИЛ БРО"
     )
 
 
