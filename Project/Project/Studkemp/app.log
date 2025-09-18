@@ -1,0 +1,2 @@
+2025-09-17 09:41:43 - my_logger - ERROR - Error generating IAM token: Key ID header parameter must be a string
+2025-09-17 09:41:43 - my_logger - ERROR - Failed to start bot: Key ID header parameter must be a string
