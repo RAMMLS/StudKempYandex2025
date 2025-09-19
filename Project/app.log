@@ -1,0 +1,196 @@
+2025-09-16 15:12:30 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:12:30 - my_logger - INFO - IAM token test successful
+2025-09-16 15:12:32 - my_logger - INFO - Бот запускается...
+2025-09-16 15:13:29 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:13:29 - my_logger - INFO - IAM token test successful
+2025-09-16 15:13:30 - my_logger - INFO - Бот запускается...
+2025-09-16 15:14:27 - my_logger - ERROR - Error handling message: "Attempt to overwrite 'name' in LogRecord"
+2025-09-16 15:18:49 - my_logger - ERROR - Error generating IAM token: Expecting a PEM-formatted key.
+2025-09-16 15:18:49 - my_logger - ERROR - Failed to start bot: Expecting a PEM-formatted key.
+2025-09-16 15:20:45 - my_logger - ERROR - Error generating IAM token: Expecting a PEM-formatted key.
+2025-09-16 15:20:45 - my_logger - ERROR - Failed to start bot: Expecting a PEM-formatted key.
+2025-09-16 15:21:08 - my_logger - ERROR - Error generating IAM token: Expecting a PEM-formatted key.
+2025-09-16 15:21:08 - my_logger - ERROR - Failed to start bot: Expecting a PEM-formatted key.
+2025-09-16 15:22:18 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:22:18 - my_logger - INFO - IAM token test successful
+2025-09-16 15:22:19 - my_logger - INFO - Бот запускается...
+2025-09-16 15:30:33 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:30:33 - my_logger - INFO - IAM token test successful
+2025-09-16 15:30:35 - my_logger - INFO - Бот запускается...
+2025-09-16 15:32:02 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:32:02 - my_logger - INFO - IAM token test successful
+2025-09-16 15:32:03 - my_logger - INFO - Бот запускается...
+2025-09-16 15:32:13 - my_logger - ERROR - Error handling message: "Attempt to overwrite 'name' in LogRecord"
+2025-09-16 15:33:45 - my_logger - INFO - IAM token generated successfully
+2025-09-16 15:33:45 - my_logger - INFO - IAM token test successful
+2025-09-16 15:33:46 - my_logger - INFO - Бот запускается...
+2025-09-16 15:33:54 - my_logger - DEBUG - Найдено совпадение с паттерном: (?i)\b(forget|ignore|disregard|discard|abolish)\s+(all\s+)?(prior|previous|earlier)\s+(instructions?|prompts?|directions?|commands?|rules)\b
+2025-09-16 16:17:13 - my_logger - INFO - IAM token generated successfully
+2025-09-16 16:17:13 - my_logger - INFO - IAM token test successful
+2025-09-16 16:17:14 - my_logger - INFO - Бот запускается...
+2025-09-16 16:18:19 - my_logger - INFO - IAM token generated successfully
+2025-09-16 16:18:19 - my_logger - INFO - IAM token test successful
+2025-09-16 16:18:21 - my_logger - INFO - Бот запускается...
+2025-09-16 16:18:33 - my_logger - INFO - IAM token generated successfully
+2025-09-16 16:18:33 - my_logger - INFO - IAM token test successful
+2025-09-16 16:18:34 - my_logger - INFO - Бот запускается...
+2025-09-16 17:18:47 - my_logger - INFO - IAM token generated successfully
+2025-09-16 17:18:47 - my_logger - INFO - IAM token test successful
+2025-09-16 17:18:48 - my_logger - INFO - Бот запускается...
+2025-09-16 17:19:07 - my_logger - INFO - Intent info: {'intent': 'malicious', 'confidence': 1.0, 'explanation': 'Contains XSS and SQL injection attempt.', 'recommended_action': 'block', 'normalized_input': "Hello \u200balert('XSS')\nSELECT * FROM users --"}
+2025-09-16 17:19:07 - my_logger - WARNING - Blocked suspicious input: Hello \u200Balert('XSS')\nSELECT * FROM users -- patterns=--\s*$ info={'intent': 'malicious', 'confidence': 1.0, 'explanation': 'Contains XSS and SQL injection attempt.', 'recommended_action': 'block', 'normalized_input': "Hello \u200balert('XSS')\nSELECT * FROM users --"}
+2025-09-16 18:41:41 - my_logger - INFO - IAM token generated successfully
+2025-09-16 18:41:41 - my_logger - INFO - IAM token test successful
+2025-09-16 18:41:43 - my_logger - INFO - Бот запускается...
+2025-09-16 18:43:31 - my_logger - INFO - IAM token generated successfully
+2025-09-16 18:43:31 - my_logger - INFO - IAM token test successful
+2025-09-16 18:43:33 - my_logger - INFO - Бот запускается...
+2025-09-16 18:57:55 - my_logger - INFO - IAM token generated successfully
+2025-09-16 18:57:55 - my_logger - INFO - IAM token test successful
+2025-09-16 18:57:57 - my_logger - INFO - Бот запускается...
+2025-09-16 19:01:26 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:01:26 - my_logger - INFO - IAM token test successful
+2025-09-16 19:01:27 - my_logger - INFO - Бот запускается...
+2025-09-16 19:06:34 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:06:34 - my_logger - INFO - IAM token test successful
+2025-09-16 19:06:35 - my_logger - INFO - Бот запускается...
+2025-09-16 19:08:09 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:08:09 - my_logger - INFO - IAM token test successful
+2025-09-16 19:08:10 - my_logger - INFO - Бот запускается...
+2025-09-16 19:22:45 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:22:45 - my_logger - INFO - IAM token test successful
+2025-09-16 19:22:47 - my_logger - INFO - Бот запускается...
+2025-09-16 19:22:55 - my_logger - ERROR - Error in ask_gpt: 'YandexGPTBot' object has no attribute 'folder_id'
+2025-09-16 19:22:55 - my_logger - ERROR - Error handling message: 'YandexGPTBot' object has no attribute 'folder_id'
+2025-09-16 19:23:07 - my_logger - ERROR - Error in ask_gpt: 'YandexGPTBot' object has no attribute 'folder_id'
+2025-09-16 19:23:07 - my_logger - ERROR - Error handling message: 'YandexGPTBot' object has no attribute 'folder_id'
+2025-09-16 19:24:02 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:24:02 - my_logger - INFO - IAM token test successful
+2025-09-16 19:24:03 - my_logger - INFO - Бот запускается...
+2025-09-16 19:34:53 - my_logger - INFO - IAM token generated successfully
+2025-09-16 19:34:53 - my_logger - INFO - IAM token test successful
+2025-09-16 19:34:55 - my_logger - INFO - Бот запускается...
+2025-09-17 09:12:02 - my_logger - INFO - IAM token generated successfully
+2025-09-17 09:12:02 - my_logger - INFO - IAM token test successful
+2025-09-17 09:12:03 - my_logger - INFO - Бот запускается...
+2025-09-17 09:15:04 - my_logger - INFO - IAM token generated successfully
+2025-09-17 09:15:04 - my_logger - INFO - IAM token test successful
+2025-09-17 09:15:06 - my_logger - INFO - Бот запускается...
+2025-09-17 14:07:49 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:07:49 - my_logger - INFO - IAM token test successful
+2025-09-17 14:07:50 - my_logger - INFO - Бот запускается...
+2025-09-17 14:16:49 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:16:49 - my_logger - INFO - IAM token test successful
+2025-09-17 14:16:50 - my_logger - INFO - Бот запускается...
+2025-09-17 14:24:54 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:24:54 - my_logger - INFO - IAM token test successful
+2025-09-17 14:24:56 - my_logger - INFO - Бот запускается...
+2025-09-17 14:26:14 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:26:14 - my_logger - INFO - IAM token test successful
+2025-09-17 14:26:15 - my_logger - INFO - Бот запускается...
+2025-09-17 14:27:09 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:27:09 - my_logger - INFO - IAM token test successful
+2025-09-17 14:27:10 - my_logger - INFO - Бот запускается...
+2025-09-17 14:28:37 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:28:37 - my_logger - INFO - IAM token test successful
+2025-09-17 14:28:38 - my_logger - INFO - Бот запускается...
+2025-09-17 14:29:33 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:29:33 - my_logger - INFO - IAM token test successful
+2025-09-17 14:29:34 - my_logger - INFO - Бот запускается...
+2025-09-17 14:31:50 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:31:50 - my_logger - INFO - IAM token test successful
+2025-09-17 14:31:51 - my_logger - INFO - Бот запускается...
+2025-09-17 14:33:04 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:33:04 - my_logger - INFO - IAM token test successful
+2025-09-17 14:33:05 - my_logger - INFO - Бот запускается...
+2025-09-17 14:37:32 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:37:32 - my_logger - INFO - IAM token test successful
+2025-09-17 14:37:33 - my_logger - INFO - Бот запускается...
+2025-09-17 14:39:10 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:39:10 - my_logger - INFO - IAM token test successful
+2025-09-17 14:39:11 - my_logger - INFO - Бот запускается...
+2025-09-17 14:47:35 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:47:35 - my_logger - INFO - IAM token test successful
+2025-09-17 14:47:36 - my_logger - INFO - Бот запускается...
+2025-09-17 14:48:28 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:48:28 - my_logger - INFO - IAM token test successful
+2025-09-17 14:48:29 - my_logger - INFO - Бот запускается...
+2025-09-17 14:50:50 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:50:50 - my_logger - INFO - IAM token test successful
+2025-09-17 14:50:51 - my_logger - INFO - Бот запускается...
+2025-09-17 14:52:23 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:52:23 - my_logger - INFO - IAM token test successful
+2025-09-17 14:52:24 - my_logger - INFO - Бот запускается...
+2025-09-17 14:54:37 - my_logger - INFO - IAM token generated successfully
+2025-09-17 14:54:37 - my_logger - INFO - IAM token test successful
+2025-09-17 14:54:39 - my_logger - INFO - Бот запускается...
+2025-09-17 15:02:21 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:02:21 - my_logger - INFO - IAM token test successful
+2025-09-17 15:02:22 - my_logger - INFO - Бот запускается...
+2025-09-17 15:06:27 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:06:27 - my_logger - INFO - IAM token test successful
+2025-09-17 15:06:28 - my_logger - INFO - Бот запускается...
+2025-09-17 15:10:24 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:10:24 - my_logger - INFO - IAM token test successful
+2025-09-17 15:10:26 - my_logger - INFO - Бот запускается...
+2025-09-17 15:11:24 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:11:24 - my_logger - INFO - IAM token test successful
+2025-09-17 15:11:25 - my_logger - INFO - Бот запускается...
+2025-09-17 15:20:11 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:20:11 - my_logger - INFO - IAM token test successful
+2025-09-17 15:20:13 - my_logger - INFO - Бот запускается...
+2025-09-17 15:23:37 - my_logger - ERROR - Update None caused error httpx.RemoteProtocolError: Server disconnected without sending a response.
+2025-09-17 15:23:38 - my_logger - ERROR - Update None caused error httpx.ConnectError: All connection attempts failed
+2025-09-17 15:25:58 - my_logger - ERROR - Update None caused error httpx.ReadError: 
+2025-09-17 15:27:22 - my_logger - INFO - IAM token generated successfully
+2025-09-17 15:27:22 - my_logger - INFO - IAM token test successful
+2025-09-17 15:27:23 - my_logger - INFO - Бот запускается...
+2025-09-17 15:27:55 - my_logger - ERROR - Error handling message: expected string or bytes-like object, got 'NoneType'
+2025-09-18 10:57:00 - my_logger - INFO - IAM token generated successfully
+2025-09-18 10:57:00 - my_logger - INFO - IAM token test successful
+2025-09-18 10:57:01 - my_logger - INFO - Бот запускается...
+2025-09-18 10:58:36 - my_logger - WARNING - Failed parse LLM output for intent: Expecting value: line 1 column 1 (char 0)
+2025-09-18 10:58:36 - my_logger - INFO - Оценка намерений пользователя: {'intent': 'ambiguous', 'confidence': 0.4, 'explanation': 'llm_response_parse_failed', 'recommended_action': 'ask_clarification', 'normalized_input': 'Начало Отечественной войны'}
+2025-09-18 11:00:15 - my_logger - INFO - Оценка намерений пользователя: {'intent': 'benign', 'confidence': 1.0, 'explanation': 'Исторический вопрос', 'recommended_action': 'allow', 'normalized_input': 'Начало Великой Отечественной войны'}
+2025-09-18 11:52:37 - my_logger - INFO - IAM token generated successfully
+2025-09-18 11:52:37 - my_logger - INFO - IAM token test successful
+2025-09-18 11:52:39 - my_logger - INFO - Бот запускается...
+2025-09-18 11:52:58 - my_logger - ERROR - Error handling message: 0
+2025-09-18 11:53:58 - my_logger - INFO - IAM token generated successfully
+2025-09-18 11:53:58 - my_logger - INFO - IAM token test successful
+2025-09-18 11:53:59 - my_logger - INFO - Бот запускается...
+2025-09-18 11:54:09 - my_logger - ERROR - Error handling message: 0
+2025-09-18 11:54:59 - my_logger - INFO - IAM token generated successfully
+2025-09-18 11:54:59 - my_logger - INFO - IAM token test successful
+2025-09-18 11:55:01 - my_logger - INFO - Бот запускается...
+2025-09-18 11:55:12 - my_logger - ERROR - Error handling message: 0
+2025-09-18 12:00:28 - my_logger - INFO - IAM token generated successfully
+2025-09-18 12:00:28 - my_logger - INFO - IAM token test successful
+2025-09-18 12:00:30 - my_logger - INFO - Бот запускается...
+2025-09-18 12:00:39 - my_logger - ERROR - Error handling message: 0
+2025-09-18 12:02:09 - my_logger - INFO - IAM token generated successfully
+2025-09-18 12:02:09 - my_logger - INFO - IAM token test successful
+2025-09-18 12:02:11 - my_logger - INFO - Бот запускается...
+2025-09-18 12:02:23 - my_logger - ERROR - Error handling message: 0
+2025-09-18 12:03:12 - my_logger - INFO - IAM token generated successfully
+2025-09-18 12:03:12 - my_logger - INFO - IAM token test successful
+2025-09-18 12:03:14 - my_logger - INFO - Бот запускается...
+2025-09-18 12:04:03 - my_logger - INFO - Оценка намерений пользователя: {'intent': 'benign', 'confidence': 1.0, 'explanation': 'Обычный исторический вопрос.', 'recommended_action': 'allow', 'normalized_input': 'Начало Великой Отечественной войны'}
+2025-09-18 14:42:28 - my_logger - INFO - IAM token generated successfully
+2025-09-18 14:42:29 - my_logger - ERROR - Yandex GPT API error: {"error":"json: cannot unmarshal string into Go value of type []json.RawMessage","code":3,"message":"json: cannot unmarshal string into Go value of type []json.RawMessage","details":[]}
+2025-09-18 14:42:29 - my_logger - ERROR - Error in ask_gpt: Ошибка API: 400
+2025-09-18 14:46:31 - my_logger - INFO - IAM token generated successfully
+2025-09-18 15:09:20 - my_logger - INFO - IAM token generated successfully
+2025-09-18 15:09:21 - my_logger - ERROR - Yandex GPT API error: {"error":"json: cannot unmarshal string into Go value of type []json.RawMessage","code":3,"message":"json: cannot unmarshal string into Go value of type []json.RawMessage","details":[]}
+2025-09-18 15:09:21 - my_logger - ERROR - Error in ask_gpt: Ошибка API: 400
+2025-09-18 15:09:58 - my_logger - ERROR - Yandex GPT API error: {"error":"json: cannot unmarshal string into Go value of type []json.RawMessage","code":3,"message":"json: cannot unmarshal string into Go value of type []json.RawMessage","details":[]}
+2025-09-18 15:09:58 - my_logger - ERROR - Error in ask_gpt: Ошибка API: 400
+2025-09-18 15:11:43 - my_logger - INFO - IAM token generated successfully
+2025-09-18 15:11:45 - my_logger - ERROR - Yandex GPT API error: {"error":"json: cannot unmarshal string into Go value of type []json.RawMessage","code":3,"message":"json: cannot unmarshal string into Go value of type []json.RawMessage","details":[]}
+2025-09-18 15:11:45 - my_logger - ERROR - Error in ask_gpt: Ошибка API: 400
+2025-09-18 15:19:59 - my_logger - INFO - IAM token generated successfully
+2025-09-18 15:20:01 - my_logger - ERROR - Yandex GPT API error: {"error":"json: cannot unmarshal string into Go value of type []json.RawMessage","code":3,"message":"json: cannot unmarshal string into Go value of type []json.RawMessage","details":[]}
+2025-09-18 15:20:01 - my_logger - ERROR - Error in ask_gpt: Ошибка API: 400
+2025-09-18 15:23:32 - my_logger - INFO - IAM token generated successfully
+2025-09-18 15:28:28 - my_logger - INFO - IAM token generated successfully
+2025-09-18 16:23:41 - my_logger - INFO - IAM token generated successfully

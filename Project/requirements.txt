@@ -1,15 +1,5 @@
 python-telegram-bot
 requests
 python-dotenv
-PyJWT 
-fastapi 
-uvicorn 
-aiohttp 
-python-dotenv 
-jinja2 
-python-multipart
-boto3
-pdfplumber
-langchain
-langchain-community
-langchain-huggingface
+PyJWT
+
